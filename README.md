@@ -1,5 +1,3 @@
-## 1. Animated Header Section
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,2,11&height=250&section=header&text=Azzam&fontSize=90&fontColor=ffffff&animation=twinkle" width="100%" />
 </p>
@@ -19,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/personal-badges/counter/?username=iltizamhasan3&style=flat-square&color=8b5cf6" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Filtizamhasan3%2Filtizamhasan3.json&color=8b5cf6&style=flat-square&label=views" alt="Views" />
   <img src="https://img.shields.io/github/followers/iltizamhasan3?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
   <img src="https://img.shields.io/github/stars/iltizamhasan3?style=flat-square&color=3b82f6&label=Stars" alt="Stars" />
 </p>
@@ -212,28 +210,17 @@ This analytics tool leverages historical team match data to construct dynamicall
 ## 7. Achievements Section
 
 <p align="center">
-  <b>Future Milestones & Upcoming Competitions</b>
+  <img src="https://img.shields.io/badge/Achievements-In%20Progress-a855f7?style=flat-square&logo=github-actions&logoColor=white" alt="Achievements In Progress" /><br/>
+  <i>Currently focusing on academic excellence and building core technical foundations.</i>
 </p>
-
-| Milestone / Recognition | Target Date | Description & Objectives |
-| :--- | :--- | :--- |
-| **National IT Competition (Gemastik)** | 2026 / 2027 | Developing a smart-city system using AI/ML integrations. |
-| **Academic Publication** | Late 2026 | Research paper targeting ML models for predictive analysis on Indonesian financial data. |
-| **Google Bangkit Academy Cohort** | 2027 | Aspiring to join the Machine Learning path to gain industry-recognized expertise. |
 
 ---
 
 ## 8. Certifications Section
 
 <p align="center">
-  <b>Certifications In Progress & Planned</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-11A8E2?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-  <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java SE" />
-  <img src="https://img.shields.io/badge/Google-TensorFlow%20Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Google TensorFlow Developer" />
+  <img src="https://img.shields.io/badge/Certifications-In%20Progress-8b5cf6?style=flat-square&logo=academia&logoColor=white" alt="Certifications In Progress" /><br/>
+  <i>Preparing for AWS Cloud Practitioner and other relevant enterprise certifications.</i>
 </p>
 
 ---
@@ -241,15 +228,8 @@ This analytics tool leverages historical team match data to construct dynamicall
 ## 9. Coding Profiles Section
 
 <p align="center">
-  <a href="https://github.com/iltizamhasan3" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Active%20Learner-a855f7?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-  <a href="https://github.com/iltizamhasan3" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Active%20Learner-8b5cf6?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
-  </a>
-  <a href="https://github.com/iltizamhasan3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Active%20Learner-6366f1?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
+  <img src="https://img.shields.io/badge/Coding%20Profiles-In%20Progress-6366f1?style=flat-square&logo=leetcode&logoColor=white" alt="Coding Profiles In Progress" /><br/>
+  <i>Actively solving algorithmic challenges on LeetCode and HackerRank.</i>
 </p>
 
 ---
@@ -291,6 +271,9 @@ This analytics tool leverages historical team match data to construct dynamicall
   <img src="https://raw.githubusercontent.com/iltizamhasan3/iltizamhasan3/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
+> [!NOTE]
+> The snake animation will automatically generate and update daily once the GitHub Action workflow `.github/workflows/snake.yml` is pushed and run on your repository.
+
 ---
 
 ## 14. Current Focus Section
@@ -319,14 +302,3 @@ CurrentFocus:
   </a>
 </p>
 
----
-
-## 16. Footer Section
-
-<p align="center">
-  <i>"Code is the canvas where logic meets creativity."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,2,11&height=120&section=footer" width="100%" />
-</p>
